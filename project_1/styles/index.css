@@ -2,6 +2,7 @@
   background-color: blue;
 }
 
+
 .helli{
-  background-color: red;
+  background-color: rgba(red, green, blue, alpha);
 }

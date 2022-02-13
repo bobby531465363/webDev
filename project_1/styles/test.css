@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.text {
+  background: #f4f4f4;
+  border: 10px #777 solid;
+}
+
+.text p {
+  margin: 0;
+}
